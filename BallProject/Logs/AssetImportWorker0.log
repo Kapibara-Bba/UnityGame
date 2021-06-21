@@ -143,3 +143,61 @@ Received Import Request.
 Start importing Assets/ScriptsFolder/BallScript.cs using Guid(5035b47e3a5794053b0c7431d9d42845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c53384a6291275f61c8a8db1fcea75') in 0.001796 seconds
   Import took 0.004638 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004638 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.185 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1384 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.7 MB.
+System memory in use after: 153.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1869.
+Total: 1.805047 ms (FindLiveObjects: 0.183947 ms CreateObjectMapping: 0.042498 ms MarkObjects: 1.515174 ms  DeleteObjects: 0.062359 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.567174 seconds.
+  path: Assets/ScriptsFolder/BallScript.cs
+  artifactKey: Guid(5035b47e3a5794053b0c7431d9d42845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsFolder/BallScript.cs using Guid(5035b47e3a5794053b0c7431d9d42845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e4b900b69d29593e98f59efb7d1c83b') in 0.004157 seconds
+  Import took 0.007072 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.166 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1384 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.9 MB.
+System memory in use after: 154.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1872.
+Total: 1.621135 ms (FindLiveObjects: 0.132604 ms CreateObjectMapping: 0.039569 ms MarkObjects: 1.392348 ms  DeleteObjects: 0.055754 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 272.538236 seconds.
+  path: Assets/ScriptsFolder/BallScript.cs
+  artifactKey: Guid(5035b47e3a5794053b0c7431d9d42845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsFolder/BallScript.cs using Guid(5035b47e3a5794053b0c7431d9d42845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517a1647a1a87b638e71c41334d9a126') in 0.005432 seconds
+  Import took 0.009832 seconds .
+
